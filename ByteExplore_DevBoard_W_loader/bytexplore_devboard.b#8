@@ -10558,7 +10558,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="58.975" y="34.415" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="JP5" library="jumper" library_urn="urn:adsk.eagle:library:252" package="JP2Q" package3d_urn="urn:adsk.eagle:package:15450/1" value="" x="58.3" y="20.9" smashed="yes">
-<attribute name="NAME" x="56.16" y="23.748" size="1.016" layer="25" font="vector" ratio="15"/>
+<attribute name="NAME" x="52.83" y="20.628" size="1.016" layer="25" font="vector" ratio="15"/>
 <attribute name="VALUE" x="62.745" y="18.36" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="USB1" library="microusb" package="MICRO-USB" value="MICRO-USB" x="68.6" y="16.4" smashed="yes" rot="R90">

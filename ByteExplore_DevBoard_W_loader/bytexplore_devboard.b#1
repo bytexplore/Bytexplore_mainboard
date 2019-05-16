@@ -9664,8 +9664,8 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <wire x1="-1.27" y1="-0.254" x2="-1.27" y2="-2.286" width="0.1524" layer="21"/>
 <wire x1="-1.016" y1="-2.54" x2="-1.27" y2="-2.286" width="0.1524" layer="21"/>
 <wire x1="-1.016" y1="-2.54" x2="1.016" y2="-2.54" width="0.1524" layer="21"/>
-<pad name="1" x="0" y="-1.27" drill="1" diameter="1.778" rot="R180"/>
-<pad name="2" x="0" y="1.27" drill="1" diameter="1.6764"/>
+<pad name="1" x="0" y="-1.27" drill="0.9144" diameter="1.778"/>
+<pad name="2" x="0" y="1.27" drill="0.9144" diameter="1.778"/>
 <text x="-1.651" y="-2.54" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="2.921" y="-2.54" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 <rectangle x1="-0.3048" y1="0.9652" x2="0.3048" y2="1.5748" layer="51"/>
@@ -10063,7 +10063,7 @@ Source: www.silabs.com .. CP2101.pdf</description>
 <rectangle x1="-1.7575" y1="2.1275" x2="-1.2425" y2="2.3575" layer="51" rot="R270"/>
 <rectangle x1="-1.8" y1="2.15" x2="-1.2" y2="2.45" layer="29" rot="R270"/>
 <rectangle x1="-2.3525" y1="1.8525" x2="-1.8525" y2="2.3525" layer="29"/>
-<rectangle x1="-1.4478" y1="-1.4478" x2="1.4478" y2="1.4478" layer="29"/>
+<rectangle x1="-1.5382" y1="-1.481" x2="1.5286" y2="1.4762" layer="29"/>
 <rectangle x1="-2.58" y1="1.37" x2="-2.02" y2="1.63" layer="31"/>
 <rectangle x1="-2.58" y1="0.87" x2="-2.02" y2="1.13" layer="31"/>
 <rectangle x1="-2.58" y1="0.37" x2="-2.02" y2="0.63" layer="31"/>
@@ -10092,7 +10092,7 @@ Source: www.silabs.com .. CP2101.pdf</description>
 <rectangle x1="-0.78" y1="2.17" x2="-0.22" y2="2.43" layer="31" rot="R270"/>
 <rectangle x1="-1.28" y1="2.17" x2="-0.72" y2="2.43" layer="31" rot="R270"/>
 <rectangle x1="-1.78" y1="2.17" x2="-1.22" y2="2.43" layer="31" rot="R270"/>
-<rectangle x1="-1.397" y1="-1.397" x2="1.397" y2="1.397" layer="31"/>
+<rectangle x1="-1.2788" y1="-1.3292" x2="1.28" y2="1.3232" layer="31"/>
 <rectangle x1="-2.3" y1="1.9" x2="-1.9" y2="2.3" layer="31"/>
 </package>
 </packages>
