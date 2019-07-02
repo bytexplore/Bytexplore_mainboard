@@ -13150,8 +13150,8 @@ design rules under a new name.</description>
 </polygon>
 <polygon width="0.1524" layer="16" pour="cutout">
 <vertex x="0.27" y="47.7"/>
-<vertex x="5.13" y="47.7"/>
-<vertex x="5.34" y="47.49"/>
+<vertex x="4.53" y="47.7"/>
+<vertex x="5.34" y="46.89"/>
 <vertex x="5.34" y="40.2"/>
 <vertex x="5.25" y="40.11"/>
 <vertex x="0.3" y="40.11"/>
@@ -13161,8 +13161,8 @@ design rules under a new name.</description>
 </polygon>
 <polygon width="0.1524" layer="1" pour="cutout">
 <vertex x="0.24" y="47.7"/>
-<vertex x="5.1" y="47.7"/>
-<vertex x="5.31" y="47.49"/>
+<vertex x="4.53" y="47.7"/>
+<vertex x="5.31" y="46.92"/>
 <vertex x="5.31" y="40.2"/>
 <vertex x="5.22" y="40.11"/>
 <vertex x="0.27" y="40.11"/>
