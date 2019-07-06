@@ -18766,7 +18766,7 @@ With round pins</description>
 <description>&lt;b&gt;Jumpers&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="JP3Q" urn="urn:adsk.eagle:footprint:15393/1" library_version="1">
+<package name="JP3Q" urn="urn:adsk.eagle:footprint:15393/1" locally_modified="yes" library_version="1" library_locally_modified="yes">
 <description>&lt;b&gt;JUMPER&lt;/b&gt;</description>
 <wire x1="-3.81" y1="-2.159" x2="-3.81" y2="2.159" width="0.1524" layer="21"/>
 <wire x1="-1.651" y1="2.54" x2="-1.27" y2="2.159" width="0.1524" layer="21"/>
@@ -18794,11 +18794,8 @@ With round pins</description>
 <pad name="4" x="0" y="1.27" drill="0.9144" shape="octagon"/>
 <pad name="5" x="2.54" y="-1.27" drill="0.9144" shape="octagon"/>
 <pad name="6" x="2.54" y="1.27" drill="0.9144" shape="octagon"/>
-<text x="-3.048" y="-4.191" size="1.27" layer="21" ratio="10">1</text>
-<text x="-0.508" y="-4.191" size="1.27" layer="21" ratio="10">2</text>
-<text x="2.032" y="-4.191" size="1.27" layer="21" ratio="10">3</text>
 <text x="-3.429" y="2.921" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-3.429" y="-5.842" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-3.429" y="-4.572" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 <rectangle x1="-2.8448" y1="0.9652" x2="-2.2352" y2="1.5748" layer="51"/>
 <rectangle x1="-0.3048" y1="0.9652" x2="0.3048" y2="1.5748" layer="51"/>
 <rectangle x1="2.2352" y1="0.9652" x2="2.8448" y2="1.5748" layer="51"/>
@@ -18829,7 +18826,7 @@ With round pins</description>
 <rectangle x1="-0.3048" y1="0.9652" x2="0.3048" y2="1.5748" layer="51"/>
 <rectangle x1="-0.3048" y1="-1.5748" x2="0.3048" y2="-0.9652" layer="51"/>
 </package>
-<package name="JP2Q" urn="urn:adsk.eagle:footprint:15392/1" library_version="1">
+<package name="JP2Q" urn="urn:adsk.eagle:footprint:15392/1" locally_modified="yes" library_version="1" library_locally_modified="yes">
 <description>&lt;b&gt;JUMPER&lt;/b&gt;</description>
 <wire x1="-2.54" y1="-2.159" x2="-2.54" y2="2.159" width="0.1524" layer="21"/>
 <wire x1="-0.381" y1="2.54" x2="0" y2="2.159" width="0.1524" layer="21"/>
@@ -18849,8 +18846,6 @@ With round pins</description>
 <pad name="2" x="-1.27" y="1.27" drill="0.9144" shape="octagon"/>
 <pad name="3" x="1.27" y="-1.27" drill="0.9144" shape="octagon"/>
 <pad name="4" x="1.27" y="1.27" drill="0.9144" shape="octagon"/>
-<text x="-1.778" y="-4.191" size="1.27" layer="21" ratio="10">1</text>
-<text x="0.762" y="-4.191" size="1.27" layer="21" ratio="10">2</text>
 <text x="-2.54" y="3.048" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="4.445" y="-2.54" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 <rectangle x1="-1.5748" y1="0.9652" x2="-0.9652" y2="1.5748" layer="51"/>
@@ -18860,7 +18855,7 @@ With round pins</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="JP3Q" urn="urn:adsk.eagle:package:15460/1" type="box" library_version="1">
+<package3d name="JP3Q" urn="urn:adsk.eagle:package:15460/1" locally_modified="yes" type="box" library_version="1" library_locally_modified="yes">
 <description>JUMPER</description>
 <packageinstances>
 <packageinstance name="JP3Q"/>
@@ -18872,7 +18867,7 @@ With round pins</description>
 <packageinstance name="JP1"/>
 </packageinstances>
 </package3d>
-<package3d name="JP2Q" urn="urn:adsk.eagle:package:15450/1" type="box" library_version="1">
+<package3d name="JP2Q" urn="urn:adsk.eagle:package:15450/1" locally_modified="yes" type="box" library_version="1" library_locally_modified="yes">
 <description>JUMPER</description>
 <packageinstances>
 <packageinstance name="JP2Q"/>
@@ -18942,7 +18937,7 @@ With round pins</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="JP3Q" urn="urn:adsk.eagle:component:15492/1" prefix="JP" uservalue="yes" library_version="1">
+<deviceset name="JP3Q" urn="urn:adsk.eagle:component:15492/1" locally_modified="yes" prefix="JP" uservalue="yes" library_version="1" library_locally_modified="yes">
 <description>&lt;b&gt;JUMPER&lt;/b&gt;</description>
 <gates>
 <gate name="B" symbol="J3" x="0" y="0"/>
@@ -18986,7 +18981,7 @@ With round pins</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="JP2Q" urn="urn:adsk.eagle:component:15478/1" prefix="JP" uservalue="yes" library_version="1">
+<deviceset name="JP2Q" urn="urn:adsk.eagle:component:15478/1" locally_modified="yes" prefix="JP" uservalue="yes" library_version="1" library_locally_modified="yes">
 <description>&lt;b&gt;JUMPER&lt;/b&gt;</description>
 <gates>
 <gate name="B1" symbol="J2" x="0" y="0"/>
@@ -21726,7 +21721,7 @@ improved time-to-market, superior system performance and greater end product dif
 Source: http://www.silabs.com&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="MLP28" urn="urn:adsk.eagle:footprint:26366/1" library_version="1">
+<package name="MLP28" urn="urn:adsk.eagle:footprint:26366/1" locally_modified="yes" library_version="1" library_locally_modified="yes">
 <description>&lt;b&gt;MLP 28&lt;/b&gt;&lt;p&gt;
 Source: www.silabs.com .. CP2101.pdf</description>
 <wire x1="-1.965" y1="1.555" x2="-1.965" y2="1.445" width="0.12" layer="51" curve="-180"/>
@@ -21851,24 +21846,7 @@ Source: www.silabs.com .. CP2101.pdf</description>
 <rectangle x1="-1.7575" y1="2.1275" x2="-1.2425" y2="2.3575" layer="51" rot="R270"/>
 <rectangle x1="-1.8" y1="2.15" x2="-1.2" y2="2.45" layer="29" rot="R270"/>
 <rectangle x1="-2.3525" y1="1.8525" x2="-1.8525" y2="2.3525" layer="29"/>
-<rectangle x1="-1.3" y1="1.1" x2="-0.7" y2="1.4" layer="29"/>
-<rectangle x1="-0.3" y1="1.1" x2="0.3" y2="1.4" layer="29"/>
-<rectangle x1="0.7" y1="1.1" x2="1.3" y2="1.4" layer="29"/>
-<rectangle x1="-1.3" y1="0.6" x2="-0.7" y2="0.9" layer="29"/>
-<rectangle x1="-0.3" y1="0.6" x2="0.3" y2="0.9" layer="29"/>
-<rectangle x1="0.7" y1="0.6" x2="1.3" y2="0.9" layer="29"/>
-<rectangle x1="-1.3" y1="0.1" x2="-0.7" y2="0.4" layer="29"/>
-<rectangle x1="-0.3" y1="0.1" x2="0.3" y2="0.4" layer="29"/>
-<rectangle x1="0.7" y1="0.1" x2="1.3" y2="0.4" layer="29"/>
-<rectangle x1="-1.3" y1="-0.4" x2="-0.7" y2="-0.1" layer="29"/>
-<rectangle x1="-0.3" y1="-0.4" x2="0.3" y2="-0.1" layer="29"/>
-<rectangle x1="0.7" y1="-0.4" x2="1.3" y2="-0.1" layer="29"/>
-<rectangle x1="-1.3" y1="-0.9" x2="-0.7" y2="-0.6" layer="29"/>
-<rectangle x1="-0.3" y1="-0.9" x2="0.3" y2="-0.6" layer="29"/>
-<rectangle x1="0.7" y1="-0.9" x2="1.3" y2="-0.6" layer="29"/>
-<rectangle x1="-1.3" y1="-1.4" x2="-0.7" y2="-1.1" layer="29"/>
-<rectangle x1="-0.3" y1="-1.4" x2="0.3" y2="-1.1" layer="29"/>
-<rectangle x1="0.7" y1="-1.4" x2="1.3" y2="-1.1" layer="29"/>
+<rectangle x1="-1.4478" y1="-1.4478" x2="1.4478" y2="1.4478" layer="29"/>
 <rectangle x1="-2.58" y1="1.37" x2="-2.02" y2="1.63" layer="31"/>
 <rectangle x1="-2.58" y1="0.87" x2="-2.02" y2="1.13" layer="31"/>
 <rectangle x1="-2.58" y1="0.37" x2="-2.02" y2="0.63" layer="31"/>
@@ -21897,29 +21875,12 @@ Source: www.silabs.com .. CP2101.pdf</description>
 <rectangle x1="-0.78" y1="2.17" x2="-0.22" y2="2.43" layer="31" rot="R270"/>
 <rectangle x1="-1.28" y1="2.17" x2="-0.72" y2="2.43" layer="31" rot="R270"/>
 <rectangle x1="-1.78" y1="2.17" x2="-1.22" y2="2.43" layer="31" rot="R270"/>
-<rectangle x1="-1.28" y1="1.12" x2="-0.72" y2="1.38" layer="31"/>
-<rectangle x1="-0.28" y1="1.12" x2="0.28" y2="1.38" layer="31"/>
-<rectangle x1="0.72" y1="1.12" x2="1.28" y2="1.38" layer="31"/>
-<rectangle x1="-1.28" y1="0.62" x2="-0.72" y2="0.88" layer="31"/>
-<rectangle x1="-0.28" y1="0.62" x2="0.28" y2="0.88" layer="31"/>
-<rectangle x1="0.72" y1="0.62" x2="1.28" y2="0.88" layer="31"/>
-<rectangle x1="-1.28" y1="0.12" x2="-0.72" y2="0.38" layer="31"/>
-<rectangle x1="-0.28" y1="0.12" x2="0.28" y2="0.38" layer="31"/>
-<rectangle x1="0.72" y1="0.12" x2="1.28" y2="0.38" layer="31"/>
-<rectangle x1="-1.28" y1="-0.38" x2="-0.72" y2="-0.12" layer="31"/>
-<rectangle x1="-0.28" y1="-0.38" x2="0.28" y2="-0.12" layer="31"/>
-<rectangle x1="0.72" y1="-0.38" x2="1.28" y2="-0.12" layer="31"/>
-<rectangle x1="-1.28" y1="-0.88" x2="-0.72" y2="-0.62" layer="31"/>
-<rectangle x1="-0.28" y1="-0.88" x2="0.28" y2="-0.62" layer="31"/>
-<rectangle x1="0.72" y1="-0.88" x2="1.28" y2="-0.62" layer="31"/>
-<rectangle x1="-1.28" y1="-1.38" x2="-0.72" y2="-1.12" layer="31"/>
-<rectangle x1="-0.28" y1="-1.38" x2="0.28" y2="-1.12" layer="31"/>
-<rectangle x1="0.72" y1="-1.38" x2="1.28" y2="-1.12" layer="31"/>
+<rectangle x1="-1.397" y1="-1.397" x2="1.397" y2="1.397" layer="31"/>
 <rectangle x1="-2.3" y1="1.9" x2="-1.9" y2="2.3" layer="31"/>
 </package>
 </packages>
 <packages3d>
-<package3d name="MLP28" urn="urn:adsk.eagle:package:26377/1" type="box" library_version="1">
+<package3d name="MLP28" urn="urn:adsk.eagle:package:26377/1" locally_modified="yes" type="box" library_version="1" library_locally_modified="yes">
 <description>MLP 28
 Source: www.silabs.com .. CP2101.pdf</description>
 <packageinstances>
@@ -21957,7 +21918,7 @@ Source: www.silabs.com .. CP2101.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="CP210*" urn="urn:adsk.eagle:component:26382/1" prefix="IC" library_version="1">
+<deviceset name="CP210*" urn="urn:adsk.eagle:component:26382/1" locally_modified="yes" prefix="IC" library_version="1" library_locally_modified="yes">
 <description>&lt;b&gt;Single-Chip USB to UART Bridge&lt;/b&gt;&lt;p&gt;
 Source: www.silabs.com .. CP2101.pdf / cp2102.pdf</description>
 <gates>

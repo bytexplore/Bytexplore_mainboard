@@ -10666,12 +10666,12 @@ design rules under a new name.</description>
 <attribute name="NAME" x="16.34" y="42.12" size="1.016" layer="25" font="vector" ratio="15" rot="R180"/>
 <attribute name="VALUE" x="17.48" y="38.83" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="" x="25.92" y="38.34" smashed="yes" rot="R270">
+<element name="C13" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="20pf" x="25.92" y="38.34" smashed="yes" rot="R270">
 <attribute name="NAME" x="27.715" y="37.135" size="1.016" layer="25" font="vector" ratio="15" rot="R90"/>
 <attribute name="SPICEPREFIX" value="C" x="25.92" y="38.34" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="24.015" y="38.975" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="C22" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="" x="25.89" y="41.55" smashed="yes" rot="R90">
+<element name="C22" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="20pf" x="25.89" y="41.55" smashed="yes" rot="R90">
 <attribute name="NAME" x="27.865" y="40.105" size="1.016" layer="25" font="vector" ratio="15" rot="R90"/>
 <attribute name="SPICEPREFIX" value="C" x="25.89" y="41.55" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="27.795" y="40.915" size="1.27" layer="27" rot="R90"/>
@@ -10681,17 +10681,17 @@ design rules under a new name.</description>
 <attribute name="SPICEPREFIX" value="C" x="12.36" y="33.75" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="11.725" y="31.845" size="1.27" layer="27"/>
 </element>
-<element name="C24" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="" x="20.61" y="47.19" smashed="yes" rot="R90">
+<element name="C24" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nf" x="20.61" y="47.19" smashed="yes" rot="R90">
 <attribute name="NAME" x="26.315" y="49.405" size="1.016" layer="25" font="vector" ratio="15" rot="R180"/>
 <attribute name="SPICEPREFIX" value="C" x="20.61" y="47.19" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="22.515" y="46.555" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="220" x="18.54" y="48.03" smashed="yes" rot="R180">
+<element name="R8" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="100K" x="18.54" y="48.03" smashed="yes" rot="R180">
 <attribute name="NAME" x="19.765" y="45.595" size="1.016" layer="25" font="vector" ratio="15" rot="R90"/>
 <attribute name="SPICEPREFIX" value="R" x="18.54" y="48.03" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="19.175" y="49.935" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="220" x="16.86" y="34.44" smashed="yes">
+<element name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="100K" x="16.86" y="34.44" smashed="yes">
 <attribute name="NAME" x="16.435" y="35.315" size="1.016" layer="25" font="vector" ratio="15"/>
 <attribute name="SPICEPREFIX" value="R" x="16.86" y="34.44" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="16.225" y="32.535" size="1.27" layer="27"/>
@@ -10706,7 +10706,7 @@ design rules under a new name.</description>
 <attribute name="SPICEPREFIX" value="R" x="15.27" y="48.15" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="14.635" y="46.245" size="1.27" layer="27"/>
 </element>
-<element name="R21" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="220" x="8.7" y="48.63" smashed="yes">
+<element name="R21" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="100" x="8.7" y="48.63" smashed="yes">
 <attribute name="NAME" x="7.015" y="46.615" size="1.016" layer="25" font="vector" ratio="15" rot="R90"/>
 <attribute name="SPICEPREFIX" value="R" x="8.7" y="48.63" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="8.065" y="46.725" size="1.27" layer="27"/>
@@ -10720,7 +10720,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="14.17" y="35.11" size="1.016" layer="25" font="vector" ratio="15" rot="R270"/>
 <attribute name="VALUE" x="15.16" y="37.91" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="R23" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="220" x="20.46" y="36.3" smashed="yes" rot="R180">
+<element name="R23" library="rcl" library_urn="urn:adsk.eagle:library:334" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="10k" x="20.46" y="36.3" smashed="yes" rot="R180">
 <attribute name="NAME" x="22.165" y="35.555" size="1.016" layer="25" font="vector" ratio="15"/>
 <attribute name="SPICEPREFIX" value="R" x="20.46" y="36.3" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="21.095" y="38.205" size="1.27" layer="27" rot="R180"/>
@@ -13150,8 +13150,8 @@ design rules under a new name.</description>
 </polygon>
 <polygon width="0.1524" layer="16" pour="cutout">
 <vertex x="0.27" y="47.7"/>
-<vertex x="5.13" y="47.7"/>
-<vertex x="5.34" y="47.49"/>
+<vertex x="4.53" y="47.7"/>
+<vertex x="5.34" y="46.89"/>
 <vertex x="5.34" y="40.2"/>
 <vertex x="5.25" y="40.11"/>
 <vertex x="0.3" y="40.11"/>
@@ -13161,8 +13161,8 @@ design rules under a new name.</description>
 </polygon>
 <polygon width="0.1524" layer="1" pour="cutout">
 <vertex x="0.24" y="47.7"/>
-<vertex x="5.1" y="47.7"/>
-<vertex x="5.31" y="47.49"/>
+<vertex x="4.53" y="47.7"/>
+<vertex x="5.31" y="46.92"/>
 <vertex x="5.31" y="40.2"/>
 <vertex x="5.22" y="40.11"/>
 <vertex x="0.27" y="40.11"/>
