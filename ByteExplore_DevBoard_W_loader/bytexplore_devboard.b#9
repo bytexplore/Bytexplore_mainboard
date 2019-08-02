@@ -23,7 +23,7 @@
 <layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
 <layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
 <layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -1349,10 +1349,10 @@
 <text x="40.85" y="5.1" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR90">GND</text>
 <text x="43.4" y="5.05" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR90">GND</text>
 <text x="46.05" y="5.05" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR90">VIN</text>
-<text x="47.92" y="8.09" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">PC0</text>
-<text x="50.87" y="8.07" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">PC1</text>
-<text x="47.76" y="10.19" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">SCL</text>
-<text x="50.74" y="10.19" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">SDA</text>
+<text x="50.95" y="8.24" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">PC0</text>
+<text x="47.99" y="8.22" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">PC1</text>
+<text x="50.91" y="10.13" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">SCL</text>
+<text x="47.89" y="10.1" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR0">SDA</text>
 <wire x1="22.2" y1="43.15" x2="20.8" y2="44.55" width="0.254" layer="26"/>
 <wire x1="20.8" y1="44.55" x2="15.6" y2="44.55" width="0.254" layer="26"/>
 <wire x1="15.6" y1="44.55" x2="14.65" y2="43.6" width="0.254" layer="26"/>
