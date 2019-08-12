@@ -1306,7 +1306,7 @@
 <text x="6.83" y="12.34" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="MR0">PA5</text>
 <text x="6.81" y="9.71" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="MR0">PA6</text>
 <text x="6.83" y="7.13" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="MR0">PA7</text>
-<text x="7.1" y="5.3" locked="yes" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="MR0">PC4</text>
+<text x="6.68" y="4.73" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="MR0">PC4</text>
 <text x="18.2" y="7.8" locked="yes" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="SMR270">PB11</text>
 <text x="20.9" y="7.75" locked="yes" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="SMR270">PB12</text>
 <text x="23.4" y="7.75" locked="yes" size="1.016" layer="26" font="vector" ratio="15" distance="20" rot="SMR270">PB13</text>
@@ -1363,8 +1363,8 @@
 <wire x1="16" y1="7.9" x2="15.55" y2="7.45" width="0.254" layer="26" locked="yes"/>
 <wire x1="15.55" y1="7.45" x2="11.8" y2="7.45" width="0.254" layer="26" locked="yes"/>
 <wire x1="11.8" y1="7.45" x2="11.05" y2="8.2" width="0.254" layer="26" locked="yes"/>
-<wire x1="13" y1="7.4" x2="10.2" y2="4.6" width="0.254" layer="26" locked="yes"/>
-<wire x1="10.2" y1="4.6" x2="3.3" y2="4.6" width="0.254" layer="26" locked="yes"/>
+<wire x1="12.91" y1="6.95" x2="10.11" y2="4.15" width="0.254" layer="26"/>
+<wire x1="10.02" y1="4.15" x2="3.12" y2="4.15" width="0.254" layer="26"/>
 <text x="42.3" y="43.6" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR90">PD2/D8</text>
 <text x="39.7" y="43.4" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR90">CANTX/~</text>
 <text x="37.35" y="43.35" size="1.016" layer="25" font="vector" ratio="15" distance="20" rot="SR90">SS/PWM</text>
